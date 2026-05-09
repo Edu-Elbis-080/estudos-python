@@ -10,3 +10,4 @@ numero = int(input("digite um numero: "))
 print("voce digitou:", numero)
 
 3+3*64
+print("editei via mobile")
